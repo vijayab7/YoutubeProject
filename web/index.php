@@ -212,7 +212,9 @@ if ($_SERVER['REQUEST_METHOD'] == 'POST') {
 
         <div class="d-grid gap-2">
             <button class="btn btn-primary rounded-pill" type="submit">確認画面へ</button>
+
             <button class="btn btn-secondary rounded-pill" type="button">back</button>
+
         </div>
     </form>
     <!-- Optional JavaScript; choose one of the two! -->
